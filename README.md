@@ -1,4 +1,5 @@
 // oznakomitelnaya
+
 #include <Windows.h>
 #include <time.h>
 #include <thread>
